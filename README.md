@@ -27,6 +27,6 @@ $ labelImg
 ``` 
 * Link del video principal del proceso: [Link de youtube](https://www.youtube.com/watch?v=SBNlIdAcq5k&list=PLxlDSsuQ1vid1jPLaI2Igw9gQVlG6KL6i&index=44&ab_channel=EnriqueCamacho)
 
-**Tenemos un total de: **1439 imagenes, las cuales dividiremos para el etiquetado con el software de arriba, una vez terminado. Practicamente ya solo nos quedara ejecutar la mitad del video. La carpeta de google drive, ya esta con la ejecucion de la primera notebook de rename, `No es necesario den rerun a la notebook`, la Segunda notebook es la del split, pero ahi se necesita tener listo todo el etiquetado.
+**Tenemos un total de:** 1439 imagenes, las cuales dividiremos para el etiquetado con el software de arriba, una vez terminado. Practicamente ya solo nos quedara ejecutar la mitad del video. La carpeta de google drive, ya esta con la ejecucion de la primera notebook de rename, `No es necesario den rerun a la notebook`, la Segunda notebook es la del split, pero ahi se necesita tener listo todo el etiquetado.
 
 ## Fase 2 (Split samples notebook)(`Pending`)
