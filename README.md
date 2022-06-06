@@ -30,3 +30,18 @@ $ labelImg
 **Tenemos un total de:** `1439` imagenes, las cuales dividiremos para el etiquetado con el software de arriba, una vez terminado. Practicamente ya solo nos quedara ejecutar la mitad del video. La carpeta de google drive, ya esta con la ejecucion de la primera notebook de rename, `No es necesario den rerun a la notebook`, la Segunda notebook es la del split, pero ahi se necesita tener listo todo el etiquetado.
 
 ## Fase 2 (Split samples notebook)(`Pending`)
+A continuacion vamos a dividiel el labeleo de la informacion en formato para `YOLO`, como les mencione antes el software que se instala es solo corriendo ese comando y se ejecuta.
+
+[Screenshot de donde cambiar la opcion para `YOLO`](https://snipboard.io/PLtjET.jpg)
+
+Solo deben darles click al boton de arriba de `create reckbox` ahi al dar click cambia a `YOLO`, originalmente sale `pascalVOC`, puede que no sea en todos los casos, pero asi lo cambian.
+
+Con el boton de `Open dir` abren la carpeta donde estan las imagenes y con el `change save dir`, es donde escogeran el lugar para guardar las imagenes, por cada imagen aprietan `w` y su mouse se pondra en forma de cruz, lo que permite marcar el area para tagear, una vez dejes de dar el click, salta un cuadro para poner tu etiqueta, en este caso la etiqueta que usaremos es: `jaguar`.
+
+**DISTRIBUCION DEL ETIQUETADO**
+
+- `Adrian`: `0 - 358`
+- `Karla`:`359 - 718`
+- `Nimbe`:`719 - 1078`
+- `Pedrito`:`1079- 1439`
+ 
