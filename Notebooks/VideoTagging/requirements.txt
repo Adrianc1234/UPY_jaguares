@@ -1,0 +1,4 @@
+git+https://github.com/openai/CLIP.git
+torch
+youtube_dl
+opencv-python-headless
